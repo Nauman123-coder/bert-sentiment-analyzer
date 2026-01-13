@@ -44,4 +44,4 @@ As a developer with a background in **pre-medicine**, I am particularly interest
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/Nauman123-coder/bert-sentiment-analyzer.git](https://github.com/Nauman123-coder/bert-sentiment-analyzer.git)
+   git clone https://github.com/Nauman123-coder/bert-sentiment-analyzer.git
